@@ -1,3 +1,3 @@
-name = "hello world"
+"hello world"
 
-world = "hello_world"
+hello_world
